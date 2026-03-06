@@ -2,7 +2,7 @@
 
 I'm a Software Development student who's often looking for fun projects to work on.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhelllo&hide_progress=false&theme=vue-dark&layout=compact)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhelllo&hide_progress=false&theme=vue-dark&layout=compact) -->
 
 <!--
 **adrianhelllo/adrianhelllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
