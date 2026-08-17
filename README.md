@@ -1,6 +1,5 @@
-### Hey!
-
-I'm a Software Development student who's often looking for fun projects to work on.
+### helo !!
+i post my fun projects and assignments here sometimes...
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhelllo&hide_progress=false&theme=vue-dark&layout=compact) -->
 
